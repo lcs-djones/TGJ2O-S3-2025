@@ -1,10 +1,7 @@
 ---
-created: 2024-09-06T07:00:00.000-0400
+created: 2024-10-07T07:00:00.000-0400
 draft: false
-enableToc: false
-excludeBacklinks: true
 tags: null
-transcludeTitleSize: h2
 ---
 
 ## Getting Started with Photoshop Tutorials

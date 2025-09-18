@@ -10,6 +10,7 @@ transcludeTitleSize: h2
 ## Agenda
 1. Tutorial: [[Photoshop Tutorials]]
 2. Task: [[Photoshop Quote Task]]
+3. Task: [[Photoshop choices]]
 
 ## Things to do before our next class
 - [ ] Be sure you have [[First Notion Entry]] to introduce yourself and identify your areas of interest.

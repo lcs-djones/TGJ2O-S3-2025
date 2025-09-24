@@ -9,7 +9,7 @@ transcludeTitleSize: h2
 
 ## Agenda
 1. Tutorials: [[Photoshop Tutorials part 2]]
-	1. Complete any 5 of the listed tutorials to broaden your Photoshop skills
+	1. Complete any 5 of the listed tutorials to broaden your Photoshop skills (the list of 5 includes any that you completed last class)
 2. Assignment: [[Custom album art]]
 
 

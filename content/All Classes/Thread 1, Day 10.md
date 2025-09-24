@@ -9,7 +9,7 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Setup: [[Account Creation]]
+1. Setup: [[Creating your Tinkercad Account]]
 2. Tutorial: [[Tinkercad Tutorials]]
 	- Learn the basics of this 3D modeling application.
 3. Task: [[Making a Keychain]]

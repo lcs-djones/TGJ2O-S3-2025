@@ -8,8 +8,8 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Activity [[Landmarks & Iconic Structures]]
-- Continue working on the Landmark or Iconic Structure that you started last class
+1. Complete the [[Mod]]
+2. 
 
 ## Things to do before our next class
 - [ ] Be sure you have [[First Notion Entry]] to introduce yourself and identify your areas of interest.

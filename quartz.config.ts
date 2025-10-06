@@ -27,7 +27,7 @@ const config: QuartzConfig = {
         body: "Helvetica, Arial",
         code: "IBM Plex Mono",
       },
-                                                                                                                                                      colors: {
+                                                                                                                                                            colors: {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",

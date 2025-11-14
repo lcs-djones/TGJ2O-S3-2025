@@ -62,8 +62,17 @@ You’ll set up project settings, create a new sequence, and manage media in bin
 **Skills Covered:** project setup, importing files, organizing assets.
 
 ---
+### 4️⃣ Add Clips to Your Sequence
 
-### 4️⃣ Adjust the Timing of Your Edits
+https://www.adobe.com/learn/premiere-pro/web/add-clips-to-sequence?learnIn=1
+Practice dragging clips into your timeline, arranging them, and positioning them to create the beginning structure of your edit.  
+This tutorial also introduces basic sequencing and understanding how clips snap into place on the timeline.
+
+**Skills Covered:** adding clips to the timeline, arranging shots, basic sequencing, snapping and trimming basics.
+
+---
+
+### 5 Adjust the Timing of Your Edits
 
 https://www.adobe.com/learn/premiere-pro/web/trim-video-clips?learnIn=1
 Learn how to trim, move, and rearrange clips on the timeline to control pacing and flow.  

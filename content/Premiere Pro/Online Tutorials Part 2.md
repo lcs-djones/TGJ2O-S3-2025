@@ -1,13 +1,10 @@
 ---
-draftSection1: false
-createdSection1: 2025-09-19T07:00:00.000-0400
-draftSection2: true
-createdSection2: 2025-09-19T07:00:00.000-0400
-draftSection3: false
-createdSection3: 2025-09-19T07:00:00.000-0400
-notes:
-tags:
+created: 2025-09-19T07:00:00.000-0400
+draft: false
+notes: null
+tags: null
 ---
+
 ---
 title: 🎬 Premiere Pro Online Tutorials — Part 2
 ---

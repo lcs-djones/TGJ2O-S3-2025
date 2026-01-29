@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 enableToc: false
 excludeBacklinks: true
 notes: Jan 29
@@ -8,8 +8,9 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Project: [[Project Accountability]]
-2. Project:[[Project Planning Guide| Continue your chosen Open Project]]
+1. Reflection: [[End of Open Project Mod Self Assessment]]
+2. Project: [[Project Accountability]]
+3. Project:[[Project Planning Guide| Continue your chosen Open Project]]
 
 
 ## Things to do before our next class

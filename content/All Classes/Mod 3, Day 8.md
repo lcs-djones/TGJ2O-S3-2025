@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 enableToc: false
 excludeBacklinks: true
 notes: Jan 19
@@ -11,6 +11,7 @@ transcludeTitleSize: h2
 1. Project: [[Project Accountability]]
 2. Project:[[Project Planning Guide| Continue your chosen Open Project]]
 
+Class 8 of 14
 
 ## Things to do before our next class
 - [ ] Make a portfolio post [on Notion](https://notion.so) and summarize what you've learned today including a detailed description on the tools and techniques you used, as well as any peer feedback you received.

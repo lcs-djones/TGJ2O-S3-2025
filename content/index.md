@@ -5,6 +5,6 @@ title: Grade 10 Comm Tech, Section 3
 ---
 
 # Most Recent Class
-![[Culminating Project - Class 5]]
+![[Culminating Project - Class 6]]
 ![[Grove Time]]
 ![[Key Links]]

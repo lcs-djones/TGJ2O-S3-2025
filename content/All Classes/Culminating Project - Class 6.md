@@ -10,7 +10,7 @@ transcludeTitleSize: h2
 ## Agenda
 1. Anonymous Course Feedback form: https://forms.gle/DR49zzUDcQ1aHwFi6
 2. Culminating Project: [[Culminating Project Rubric]]
-3. Culminating Project: [[Culminating Project Class 5-6 - Modelling Game Pieces]]
+3. Culminating Project: [[Culminating Project Class 5-7 - Modelling Game Pieces]]
 
 
 ## Things to do before our next class

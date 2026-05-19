@@ -8,9 +8,8 @@ transcludeTitleSize: h2
 ---
 
 ## Agenda
-1. Culminating Project: 1-on-1 Check ins
-2. Culminating Project: [[Culminating Project Rubric]]
-3. Culminating Project: [[Culminating Project Class 5-7 - Modelling Game Pieces]]
+1. Culminating Project: [[Culminating Project Rubric]]
+2. Culminating Project: [[Culminating Project Class 7-9 - 30 second Advertisement]]
 
 
 ## Things to do before our next class
